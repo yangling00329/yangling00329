@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>糖醋排骨的做法</title>
+      <link href="/2024/09/11/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8%E7%9A%84%E5%81%9A%E6%B3%95/"/>
+      <url>/2024/09/11/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8%E7%9A%84%E5%81%9A%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2024/09/11/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8%E7%9A%84%E5%81%9A%E6%B3%95/1.jpg" alt="1"></p><h1 id="步骤一"><a href="#步骤一" class="headerlink" title="步骤一"></a>步骤一</h1><h2 id="准备材料："><a href="#准备材料：" class="headerlink" title="准备材料："></a>准备材料：</h2><p>排骨（通常选用猪肋排）500克<br>生姜几片<br>大蒜几瓣<br>葱适量<br>生抽（酱油）适量<br>老抽（酱油）适量<br>白糖适量<br>白醋适量<br>料酒适量<br>清水适量<br>盐少许<br>淀粉（用于勾芡）适量</p><pre><code class="python">print(&quot;糖醋排骨&quot;)</code></pre><h1 id="步骤二"><a href="#步骤二" class="headerlink" title="步骤二"></a>步骤二</h1><h2 id="排骨处理"><a href="#排骨处理" class="headerlink" title="排骨处理"></a>排骨处理</h2><p>将排骨洗净，剁成小块。<br>放入冷水中，加入几片姜和一些料酒，大火煮沸后撇去浮沫，捞出排骨备用。</p><pre><code class="javascript">print(&quot;美味&quot;)</code></pre><h1 id="步骤三"><a href="#步骤三" class="headerlink" title="步骤三"></a>步骤三</h1><h2 id="炒糖色"><a href="#炒糖色" class="headerlink" title="炒糖色"></a>炒糖色</h2><p>锅中放入少量油，加入白糖，小火慢慢炒至糖溶化并开始变成红棕色。</p><h1 id="步骤四"><a href="#步骤四" class="headerlink" title="步骤四"></a>步骤四</h1><h2 id="炒排骨"><a href="#炒排骨" class="headerlink" title="炒排骨"></a>炒排骨</h2><p>糖色炒好后，加入排骨，快速翻炒，使排骨均匀裹上糖色。</p><h1 id="步骤五"><a href="#步骤五" class="headerlink" title="步骤五"></a>步骤五</h1><h2 id="调味"><a href="#调味" class="headerlink" title="调味"></a>调味</h2><p>加入姜片、蒜瓣、葱段，继续翻炒出香味。<br>加入适量的生抽和老抽，继续翻炒均匀。</p><h1 id="步骤六"><a href="#步骤六" class="headerlink" title="步骤六"></a>步骤六</h1><h2 id="炖煮"><a href="#炖煮" class="headerlink" title="炖煮"></a>炖煮</h2><p>加入足够的水，水量要没过排骨。<br>大火烧开后转小火，盖上锅盖慢炖至排骨熟透。</p><h1 id="步骤七"><a href="#步骤七" class="headerlink" title="步骤七"></a>步骤七</h1><h2 id="收汁"><a href="#收汁" class="headerlink" title="收汁"></a>收汁</h2><p>排骨炖至熟透后，加入适量的盐调味。<br>开大火，加入白醋，快速翻炒，让排骨充分吸收醋的酸味。<br>待汤汁浓稠，排骨表面裹上一层亮晶晶的糖醋汁时，即可出锅</p><h1 id="步骤八"><a href="#步骤八" class="headerlink" title="步骤八"></a>步骤八</h1><h2 id="勾芡"><a href="#勾芡" class="headerlink" title="勾芡"></a>勾芡</h2><p>如果喜欢更浓稠的糖醋汁，可以用少量淀粉和水调成水淀粉，倒入锅中快速翻炒，使汁液更加浓稠。</p><h1 id="步骤九"><a href="#步骤九" class="headerlink" title="步骤九"></a>步骤九</h1><h2 id="出锅装盘"><a href="#出锅装盘" class="headerlink" title="出锅装盘"></a>出锅装盘</h2><p>将糖醋排骨盛入盘中，撒上一些葱花或者芝麻作为装饰，即可上桌享用。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/09/04/hello-world/"/>
+      <url>/2024/09/04/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
